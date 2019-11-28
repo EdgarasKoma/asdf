@@ -1,0 +1,11 @@
+[color]
+	ui = auto
+[core]
+	editor = 'C:/Program Files/Sublime Text 3/sublime_text.exe' -n -w
+[push]
+	default = upstream
+[merge]
+	conflictstyle = diff3
+[user]
+	email = edgaras.komarovic@gmail.com
+	name = Edgaras Komarovicius
